@@ -6,10 +6,10 @@
 
 # INSSTALATION
 
-First click you YOUTUBE DOWNDLODER EXE
+* First click you YOUTUBE DOWNDLODER EXE
 
-Thats file download
+* Thats file download
 
-Now double click thats file
+* Now double click thats file
 
 
